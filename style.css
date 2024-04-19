@@ -1,0 +1,22 @@
+body
+{
+    background-position: 100%;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start{
+    border: 1px solid white;
+}
